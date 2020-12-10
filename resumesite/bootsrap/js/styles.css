@@ -1,0 +1,22 @@
+body{
+    border:2px solid black;
+    margin:16px;
+}
+hr.new1{
+    border:1px dotted;
+}
+h2{
+    color:red;
+}
+#heading
+{
+    text-align: center;
+}
+table,th,td{
+border:2px solid black;
+padding:2px;
+margin:2px;
+}
+dl dd{
+    color:gray;
+}
